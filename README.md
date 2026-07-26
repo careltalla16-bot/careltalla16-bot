@@ -34,6 +34,8 @@ I am looking for opportunities in:
 
 **Artificial Intelligence in Lean Startup Business Model Development – Quantitative Study**
 
+**Grade:** Good
+
 - Statistical analysis using R
 - AI for Business
 - Process Optimization

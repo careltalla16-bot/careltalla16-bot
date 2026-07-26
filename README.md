@@ -30,6 +30,17 @@ I am looking for opportunities in:
 
 ---
 
+## 🎓 Master Thesis
+
+**Artificial Intelligence in Lean Startup Business Model Development – Quantitative Study**
+
+- Statistical analysis using R
+- AI for Business
+- Process Optimization
+- Business Model Innovation
+
+---
+
 ## 🛠️ Skills
 
 - Business Analysis
@@ -43,6 +54,7 @@ I am looking for opportunities in:
 - Data Analytics
 - Microsoft Excel
 - Power BI
+- SAP ERP
 - SQL
 - R
 - Git
@@ -50,9 +62,19 @@ I am looking for opportunities in:
 
 ---
 
+## 🌍 Languages
+
+- 🇫🇷 French – Native
+- 🇩🇪 German – C1
+- 🇬🇧 English – B1
+
+---
+
 ## 📫 Contact
 
-💼 LinkedIn: coming soon
+💼 LinkedIn: [Nelly Carel Magueu Talla](https://linkedin.com/in/nelly-carel-magueu-talla)
+
+🌐 GitHub: https://github.com/careltalla16-bot
 
 📍 Osterode am Harz, Germany
 
